@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rev": "62eb71d",
+  "files": [
+    "app.js",
+    "assets/crystal.png",
+    "assets/room.png",
+    "functions.js",
+    "game.js",
+    "index.html",
+    "styles.css"
+  ]
+}
